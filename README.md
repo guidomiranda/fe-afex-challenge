@@ -1,10 +1,10 @@
-# challenge
+# Challenge
 
 Desafío técnico para la empresa AFEX
 
 Frontend
 
-# topics
+# Topics
 1. Implementar una página web escrita con react y typescript, un listado de ítems, por cada uno se debe mostrar:
 - id
 - Fecha
