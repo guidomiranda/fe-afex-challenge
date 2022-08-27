@@ -25,3 +25,22 @@ b. No es necesario conectar con BD, los ítems puedes extraerlos de un JSON guar
 El código debe correr y funcionar en ambiente local (backend y frontend al mismo tiempo). Versionar en proyectos de github y enviar los links a cada proyecto por correo.
 
 Plazo de entrega: viernes 26 de agosto hasta el final del día.
+
+# Proyecto
+
+* Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
+
+```
+yarn install
+```
+Ese comando descargará todos los módulos de node necesarios para ejecutar el proyecto.
+
+
+* Cuando termine de instalar los node_modules, entonces podermos ejecutar el proyecto de con el siguiente comando
+
+```
+yarn dev
+```
+
+## Puerto
+Por defecto, el puerto configurado para este proyecto es el ```5000```
